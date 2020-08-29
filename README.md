@@ -1,5 +1,5 @@
-<img src=".github/Detectron2-Logo-Horz.svg" width="300" >
-本代码主要用于Julyedu的教学工作，此代码由Julyedu的老师很同学们共同维护，此代码是在Facebook的Detectron2(https://github.com/facebookresearch/Detectron)代码框架上修改而成。主要用于目标检测，图像分割等课程的教学工作。
+
+本代码主要用于Julyedu的教学工作，此代码由Julyedu的老师很同学们共同维护，此代码是在Facebook的Detectron2(https://github.com/facebookresearch/Detectron). 代码框架上修改而成。主要用于目标检测，图像分割等课程的教学工作。
 
 ### What's New
 * It is powered by the [PyTorch](https://pytorch.org) deep learning framework.
