@@ -1,14 +1,5 @@
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
-
-Detectron2 is Facebook AI Research's next generation software system
-that implements state-of-the-art object detection algorithms.
-It is a ground-up rewrite of the previous version,
-[Detectron](https://github.com/facebookresearch/Detectron/),
-and it originates from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark/).
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
-</div>
+本代码主要用于Julyedu的教学工作，此代码由Julyedu的老师很同学们共同维护，此代码是在Facebook的Detectron2(https://github.com/facebookresearch/Detectron)代码框架上修改而成。主要用于目标检测，图像分割等课程的教学工作。
 
 ### What's New
 * It is powered by the [PyTorch](https://pytorch.org) deep learning framework.
